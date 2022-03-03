@@ -1,0 +1,16 @@
+body {
+    background: beige;
+}
+
+h1 {
+    color: cornflowerblue;
+    transition: color .5s ease-in-out;
+}
+
+.clicked {
+    color: tomato;
+}
+
+.sexy-font {
+    font-family: Georgia, "Malgun Gothic", serif;
+}
